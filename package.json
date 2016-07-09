@@ -1,0 +1,24 @@
+{
+    "author": "miketineo@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "watchface",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "watchface",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "301f2b1d-326c-41bd-b90e-29006b96792e",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
